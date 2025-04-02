@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Edsn Gordo 😁
+## Bem-vindo(a) ao perfil do Edson Gordo 😁
 
  <div>
    <a href="https://github.com/edsongordo">
